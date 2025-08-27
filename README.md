@@ -39,9 +39,9 @@ The dashboard includes:
 
 ## Visualization Tools
 
-- Tool Used: Microsoft Excel
+- Tool Used: Microsoft Power BI
 
-- Dataset: Netflix Stock Price Data (CSV)
+- Dataset:[Netflix Stock Price Data](https://www.kaggle.com/datasets/jainilcoder/netflix-stock-price-prediction)
 
 - Visuals Used: Line Charts, Bar Charts, KPI Cards, Tables, and Conditional Formatting
 

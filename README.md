@@ -23,6 +23,7 @@ This Excel-based project is designed to provide several key insights into Netfli
 - 📌 Highlighting Netflix’s Most Volatile Trading Days
 
 ## Dashboard – Netflix Stock Performance
+<img width="1430" height="800" alt="Screenshot 2025-08-27 170125" src="https://github.com/user-attachments/assets/d69dd2c3-a677-4cb3-acf9-f6e4f6706758" />
 
 The dashboard includes:
 

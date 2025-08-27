@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Netflix, one of the world’s leading streaming platforms, has experienced dynamic fluctuations in its stock value due to market trends, subscriber growth, and global competition. To better understand these movements and forecast future prices, we created a Netflix Stock Prediction Dashboard using Excel.
+Netflix, one of the world’s leading streaming platforms, has experienced dynamic fluctuations in its stock value due to market trends, subscriber growth, and global competition. To better understand these movements and forecast future prices, we created a Netflix Stock Prediction Dashboard using Power BI.
 
 This dashboard offers a clear view of historical stock trends, highs and lows, volatility patterns, and predictive insights, helping investors, analysts, and financial enthusiasts make data-driven decisions.
 

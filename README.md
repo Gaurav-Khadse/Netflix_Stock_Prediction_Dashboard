@@ -1,4 +1,5 @@
 # 🎬 Netflix Stock Prediction Dashboard
+<img width="270" height="148" alt="image" src="https://github.com/user-attachments/assets/e46dd17e-3b70-43bd-bca1-6894897ac5c5" />
 
 ## Introduction
 
